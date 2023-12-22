@@ -6,28 +6,12 @@ Ao lidar com Bancos de Dados (BD), é fundamental entender as diferenças entre 
 
 O tipo de dado CHAR (caractere) é utilizado para armazenar strings de comprimento fixo. Isso significa que, ao definir um campo CHAR com uma determinada largura, cada valor armazenado nesse campo ocupará exatamente esse número de caracteres, preenchendo com espaços em branco caso necessário.
 
-Exemplo de criação de tabela com CHAR:
-
-sql
-Copy code
-CREATE TABLE ExemploChar (
-    codigo CHAR(4),
-    nome CHAR(50)
-);
 
 
 ## VARCHAR
 
 Por outro lado, VARCHAR (caractere de variável) é usado para armazenar strings de comprimento variável. Ao contrário do CHAR, o VARCHAR armazena apenas a quantidade de caracteres necessária para a string, não ocupando espaço adicional com espaços em branco.
 
-Exemplo de criação de tabela com VARCHAR:
-
-sql
-Copy code
-CREATE TABLE ExemploVarchar (
-    codigo VARCHAR(4),
-    nome VARCHAR(50)
-);
 
 ## Quando Usar Cada Um
 
