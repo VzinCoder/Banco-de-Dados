@@ -8,13 +8,4 @@ SELECT coluna1, coluna2, ... FROM nomeDaTabela WHERE condição;
 
 ### Exemplo:
 
-**SELECT nome, idade FROM clientes WHERE idade > 18;**
-## Operadores Comuns em Condições WHERE:
-
-=: Igual
-<> ou !=: Diferente
-<: Menor que
->: Maior que
-<=: Menor ou igual a
->=: Maior ou igual a
-AND, OR: Operadores lógicos para combinar condições
+>**SELECT nome, idade FROM clientes WHERE idade > 18;**
