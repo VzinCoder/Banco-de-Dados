@@ -71,4 +71,5 @@ Os operadores lógicos AND e OR são utilizados para combinar condições em con
 **Exemplo:**
 
 >SELECT * FROM tabela WHERE condicao1 AND condicao2;
+
 >SELECT * FROM tabela WHERE condicao1 OR condicao2;
