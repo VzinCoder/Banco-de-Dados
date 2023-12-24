@@ -9,46 +9,44 @@ O operador `LIKE` é usado em consultas SQL para realizar correspondências parc
 
 ## Aqui estão alguns exemplos de como o operador LIKE pode ser usado:
 
-### Correspondência Exata:
+## Correspondência Exata:
 
 
 >SELECT nome FROM clientes WHERE nome LIKE 'Vinicius';
 
 Neste exemplo, a consulta retornará todos os registros da tabela de clientes onde o nome é exatamente "Vinicius".
 
-### Correspondência Parcial no Início:
+## Correspondência Parcial no Início:
 
 
 >SELECT nome FROM clientes WHERE nome LIKE 'Vi%';
 
 A consulta retornará todos os registros onde o nome começa com "Vi".
 
-### Correspondência Parcial no Final:
+## Correspondência Parcial no Final:
 
 
 >SELECT nome FROM clientes WHERE nome LIKE '%us';
 
 A consulta retornará todos os registros onde o nome termina com "us".
 
-### Correspondência Parcial no Meio:
+## Correspondência Parcial no Meio:
 
 
 >SELECT nome FROM clientes WHERE nome LIKE '%nici%';
 
 A consulta retornará todos os registros onde o nome contém a sequência "nici" em qualquer parte.
 
-### Correspondência de Um Caractere Específico:
+## Correspondência de Um Caractere Específico:
 
 
 >SELECT produto FROM estoque WHERE produto LIKE 'b_ta';
 
 A consulta retornará produtos como "bota", "beta", etc..., onde o "_" representa um único caractere.
 
-### Negando uma Correspondência:
+## Negando uma Correspondência:
 
 
 >SELECT nome FROM clientes WHERE nome NOT LIKE 'A%';
 
 A consulta retornará registros onde o nome não começa com "A".
----
-Lembre-se de que o padrão usado com o LIKE pode conter caracteres especiais como '%' (correspondência de vários caracteres) e '_' (correspondência de um único caractere). Além disso, é importante considerar o desempenho ao usar o LIKE em grandes conjuntos de dados, pois pode ser mais lento do que outras operações de comparação.
