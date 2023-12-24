@@ -11,4 +11,5 @@ INSERT INTO nomeDaTabela VALUES (valor1, valor2, valor3, ...);
 ## Com especificação de colunas:
  
 **Sintaxe**
+
 INSERT INTO nomeDaTabela (campo1, campo2, campo3, ...) VALUES (valor1, valor2, valor3, ...);

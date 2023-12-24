@@ -15,3 +15,9 @@
 **Registros:** Linha da tabela.
 
 **Campos:** Colunas da tabela.
+
+**Projeção:** Trata da seleção de colunas.
+
+**Seleção:** Trata da seleção de linhas com base em condições.
+
+**Junção:** Trata da combinação de linhas de diferentes tabelas com base em condições de relacionamento.
