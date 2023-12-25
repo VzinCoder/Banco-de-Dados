@@ -31,7 +31,9 @@ A equipe deve estar ciente de que mudanças podem ocorrer durante o desenvolvime
 ---
 
 *Data do Pedido: 22/12/2023*
+
 *Cliente: Tera Livros S.A*
+
 *Responsável pela Análise: Unidados*
 
 

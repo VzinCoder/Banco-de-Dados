@@ -23,7 +23,5 @@ O cliente está ciente de que, durante o desenvolvimento, a equipe deverá garan
 ---
 
 *Data do Pedido: 22/12/2023*  
-
 *Cliente: Tera Comércio de Produtos S.A*  
-
 *Responsável pela Análise: Unidados*
