@@ -29,6 +29,7 @@ O escopo do projeto se limita ao cadastro de livros. Não será necessário incl
 A equipe deve estar ciente de que mudanças podem ocorrer durante o desenvolvimento, e é necessário garantir que o sistema seja flexível para acomodar tais alterações.
 
 ---
+
 *Data do Pedido: 22/12/2023*
 *Cliente: Tera Livros S.A*
 *Responsável pela Análise: Unidados*
