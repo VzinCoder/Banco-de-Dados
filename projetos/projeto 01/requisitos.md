@@ -10,37 +10,27 @@ O escopo do projeto se limita ao cadastro de livros. Não será necessário incl
 
 ## Requisitos
 
-**Banco de Dados MySQL:**
-
-Desenvolver scripts para a criação da tabela de livros e sua estrutura no MySQL.
-
-**Adaptabilidade para Outros SGBD:**
-
-Os scripts devem ser projetados de maneira a permitir fácil adaptação para outros Sistemas Gerenciadores de Bancos de Dados (SGBD) no futuro.
-
-**Exclusão de Informações Relativas a Vendas e Estoque:**
-
-O banco de dados deve ser projetado exclusivamente para o cadastro de livros, sem incluir informações relativas a vendas ou estoque.
-
-**Flexibilidade para Mudanças Tecnológicas:**
-
-Garantir flexibilidade durante o desenvolvimento para acomodar possíveis mudanças no ambiente tecnológico conforme a evolução do sistema.
+- Desenvolver scripts para o Banco de Dados MySQL.
+- Possibilidade de adaptação para outros SGBD no futuro.
+- Exclusão de informações relativas a vendas e estoque.
 
 ## Queries a serem Desenvolvidas:
-Trazer todos os dados.
-Trazer o nome do livro e o nome da editora.
-Trazer o nome do livro e a UF dos livros publicados por autores do sexo masculino.
-Trazer o nome do livro e o número de páginas dos livros publicados por autores do sexo feminino.
-Trazer os valores dos livros das editoras de São Paulo.
-Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro (Questão Desafio).
+
+
+- Trazer todos os dados.
+- Trazer o nome do livro e o nome da editora.
+- Trazer o nome do livro e a UF dos livros publicados por autores do sexo masculino.
+- Trazer o nome do livro e o número de páginas dos livros publicados por autores do sexo feminino.
+- Trazer os valores dos livros das editoras de São Paulo.
+- Trazer os dados dos autores do sexo masculino que tiveram livros publicados por São Paulo ou Rio de Janeiro (Questão Desafio).
 
 ## Observações
 
 A equipe deve estar ciente de que mudanças podem ocorrer durante o desenvolvimento, e é necessário garantir que o sistema seja flexível para acomodar tais alterações.
 
 ---
-Data do Pedido: 22/12/2023
-Cliente: Tera Livros S.A
-Responsável pela Análise: Unidados
+*Data do Pedido: 22/12/2023*
+*Cliente: Tera Livros S.A*
+*Responsável pela Análise: Unidados*
 
 
