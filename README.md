@@ -7,7 +7,7 @@ Este é um repositório destinado aos meus estudos sobre bancos de dados. Aqui, 
 - **/teoria**: Documentos teóricos sobre conceitos de bancos de dados.
 - **/projetos**: Pequenos projetos práticos.
 - **/consultas-sql**: Exemplos de consultas SQL.
--**/beecrowd-sql**: Questões do [beecrowd](https://www.beecrowd.com.br/).
+- **/beecrowd-sql**: Questões do [beecrowd](https://www.beecrowd.com.br/).
 
 ## Ferramenta de Modelagem 
 
