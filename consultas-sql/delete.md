@@ -13,6 +13,7 @@ A sintaxe básica do comando DELETE é a seguinte:
 ### Exemplo 1: Exclusão de todos os registros
 
 >DELETE FROM produtos;
+
 Neste exemplo, todos os registros da tabela "produtos" serão removidos. Cuidado ao utilizar esse tipo de comando, pois ele apaga todos os dados da tabela.
 
 ### Exemplo 2: Exclusão com base em uma condição
