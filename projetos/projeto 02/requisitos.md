@@ -23,10 +23,10 @@ O escopo do projeto se limita ao cadastro de clientes. O cliente não deseja inc
 ## Regras de Negócios
 
 ENDEREÇO: O cadastro de um endereço é obrigatório (no máximo 1).
--Relacionamento: (1,1)
+- Relacionamento: (1,1)
 
 TELEFONE: O cliente não é obrigado a informar telefone, mas pode informar mais de um, se desejar.
--Relacionamento: (0,n)
+- Relacionamento: (0,n)
 
 ## Observações
 
