@@ -24,7 +24,7 @@ Neste caso, o comando exclui todos os registros da tabela "pedidos" em que a dat
 
 ### Exemplo 3: Exclusão de um único registro
 
-DELETE FROM clientes WHERE id_cliente = 123;
+>DELETE FROM clientes WHERE id_cliente = 123;
 
 Este exemplo remove um cliente específico com o ID igual a 123 da tabela "clientes".
 
