@@ -21,3 +21,7 @@
 **Seleção:** Trata da seleção de linhas com base em condições.
 
 **Junção:** Trata da combinação de linhas de diferentes tabelas com base em condições de relacionamento.
+
+**Data Manipulation Language (DML):**  Comandos que permitem a manipulção e consulta de dados.
+
+**Data Definition Language (DDL):** Comandos que permitem a definição e modificação da estrutura do banco de dados. 
