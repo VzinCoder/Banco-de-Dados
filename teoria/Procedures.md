@@ -56,7 +56,7 @@ Uma procedure é um conjunto de instruções SQL nomeado e armazenado no banco d
   end
    $
 
-   CALL soma(5, 6);
+   CALL soma(5, 6)$
 
  ```
  **Saída:**
