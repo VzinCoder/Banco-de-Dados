@@ -46,4 +46,5 @@ Ao seguir essas regras, garantimos que cada célula contenha um único valor e e
 ---
 **Conclusão**
 
+
 A aplicação da Primeira Forma Normal é essencial para garantir a organização eficiente e sem duplicações dos dados em bancos de dados relacionais, contribuindo para a integridade e a qualidade do sistema.
